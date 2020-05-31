@@ -1,4 +1,4 @@
-
+# initial list
 numbers = [10,20,300,40.5,50];
 
 # random indexing --> O(1) get items if we know the index !!!
